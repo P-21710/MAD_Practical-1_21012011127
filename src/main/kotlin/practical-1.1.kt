@@ -19,4 +19,5 @@ fun main()
     println("$g is short value")
     println("$h is boolean value")
     print("$i is byte value")
+    print("test")
 }
