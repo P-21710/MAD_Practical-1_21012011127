@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 fun main() {    /*
+=======
+import com.sun.glass.ui.Size
+import java.util.*
+
+fun main()
+{    /*
+>>>>>>> origin/master
      println("1.Create an array1 using array of method:")
     var arr1 = arrayOf(10,20,35,45,50)
     println(arr1.contentDeepToString())
@@ -19,6 +27,7 @@ fun main() {    /*
     var arr4 = IntArray(5){i: Int ->i}
     println(arr4.contentToString())
     */
+<<<<<<< HEAD
     /*
     println("5.creating array by using intarrayof()")
     var arr5 = intArrayOf(5)
@@ -88,3 +97,8 @@ fun main() {    /*
 
 
 
+=======
+    println("5.creating array by using intarrayof()")
+    var arr5 = intArrayOf(5)
+}
+>>>>>>> origin/master
