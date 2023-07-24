@@ -13,6 +13,4 @@ fun fact(num:Int):Int
     else{
         return num * fact(num-1)
     }
-
-
 }
