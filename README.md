@@ -59,6 +59,8 @@ output:1.8
 
 <img width="294" alt="image" src="https://github.com/P-21710/MAD_Practical-1_21012011127/assets/98374171/dacbfefc-a289-4dcf-8e60-ff83e1b92202">
 
+<img width="591" alt="image" src="https://github.com/P-21710/MAD_Practical-1_21012011127/assets/98374171/965d6762-34d5-486f-8145-132955929156">
+
 AIM-1.9:Find the max number from ArrayList.
 
 output:1.9
